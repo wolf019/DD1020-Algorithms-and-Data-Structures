@@ -1,6 +1,6 @@
-# Lab 1 - E
+## Lab 1 - E
 
-    **Programming assignments for grade E** 
+    **Programming assignments for grade E**: 
 
     1. In C implement a recursive and an iterative version of a function which reads characters from stdin until a newline character is read and then prints them on stdout in reverse order. Hint: use getchar(), putchar() (or getc(), putc()). For the iterative version you may assume a fixed max length of the input.
         - [x]  
@@ -15,7 +15,7 @@
     6. Implement an ordered queue based on one of the implementations above. The elements stored in the queue should be integer values. The elements should be ordered at insertion so that all elements are stored in ascending order starting from when you insert the first element and in all following insertions. You should print the content of the list after each insertion/deletion of an element.
         - [x]  
 
-- Lab 1 - Higher Grades
+## Lab 1 - Higher Grades
 
     **Higher grade problem**
 
