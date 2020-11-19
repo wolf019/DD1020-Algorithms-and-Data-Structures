@@ -20,9 +20,9 @@
 
 All problems should be solved to pass
 
-    1. Augment the test code from assignment 1 so that the array is sorted in descending order instead of ascending order (you may add O(N) operations)*Clarification: You should not change the sorting method, nor should you sort the array an extra time. You may traverse the array once before sorting and once after sorting. During these traversals you may not move any elements. (Hint: you need not and should not use any extra memory)*
-    2. Compare the execution times for sorting large arrays of integers with quicksort and merge sort. When should one select quicksort over mergesort?
-    3. Compare the execution times of quicksort where the first element in each sub-array is selected as partitioning element to that of quicksort with median-of-three partitioning
+   1. Augment the test code from assignment 1 so that the array is sorted in descending order instead of ascending order (you may add O(N) operations)*Clarification: You should not change the sorting method, nor should you sort the array an extra time. You may traverse the array once before sorting and once after sorting. During these traversals you may not move any elements. (Hint: you need not and should not use any extra memory)*
+   2. Compare the execution times for sorting large arrays of integers with quicksort and merge sort. When should one select quicksort over mergesort?
+   3. Compare the execution times of quicksort where the first element in each sub-array is selected as partitioning element to that of quicksort with median-of-three partitioning
 
 Note: your investigations to determine execution times should be good enough to be significant (i.e one should be able to draw conclusions from them that are valid)
 
