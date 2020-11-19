@@ -1,6 +1,6 @@
 # DD1020-Algorithms-and-Data-Structures-
 
-##On completion of the course, students should be able to
+## On completion of the course, students should be able to
 
 - describe a number of common algorithms for search and sorting and their properties
 - compare algorithms with regard to time and memory usage
