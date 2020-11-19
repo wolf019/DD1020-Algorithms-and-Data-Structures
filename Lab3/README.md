@@ -1,7 +1,5 @@
 ## Lab 3 - E
 
-**NB**: This lab also covers material introduced in ch. 3.4 and 3.5 in hashing and applications
-
 **Input for the programming assignments:** You should use this text as input for your programming assignments: [http://www.gutenberg.org/files/98/98-0.txt (Länkar till en externa sida.)Länkar till en externa sida.](http://www.gutenberg.org/files/98/98-0.txt) henceforth referred to as "*the text*".
 
 **Programming assignments for grade E**
