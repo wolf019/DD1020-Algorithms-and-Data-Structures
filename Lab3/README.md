@@ -1,8 +1,8 @@
 ## Lab 3 - E
 
-    **NB**: This lab also covers material introduced in ch. 3.4 and 3.5 in hashing and applications
+**NB**: This lab also covers material introduced in ch. 3.4 and 3.5 in hashing and applications
 
-    **Input for the programming assignments:** You should use this text as input for your programming assignments: [http://www.gutenberg.org/files/98/98-0.txt (Länkar till en externa sida.)Länkar till en externa sida.](http://www.gutenberg.org/files/98/98-0.txt) henceforth referred to as "*the text*".
+**Input for the programming assignments:** You should use this text as input for your programming assignments: [http://www.gutenberg.org/files/98/98-0.txt (Länkar till en externa sida.)Länkar till en externa sida.](http://www.gutenberg.org/files/98/98-0.txt) henceforth referred to as "*the text*".
 
 **Programming assignments for grade E**
 
@@ -27,8 +27,8 @@
 
 ## Lab 3 - Higher Grades
 
-    **Higher grade problem**
+**Higher grade problem**
 
-    **Note:** You should have solved all grade E problems and successfully presented the problems if you have been selected at the seminar to be able to account this problem
+**Note:** You should have solved all grade E problems and successfully presented the problems if you have been selected at the seminar to be able to account this problem
 
-    Implement a program which takes as input a text file and allows the user to (repeatedly without re-reading the input file) ask questions: i) Which is the k:th most common wordii) Which are the k:th to the k+n:th most common wordsUse [https://introcs.cs.princeton.edu/java/data/leipzig/leipzig1m.txt](https://introcs.cs.princeton.edu/java/data/leipzig/leipzig1m.txt)  as input. The questions should be answered in constant time. You need to be able to explain the choices of data structures and algorithms, and their complexities. The time to read the input and build the data structures must not be longer than 3 min.
+Implement a program which takes as input a text file and allows the user to (repeatedly without re-reading the input file) ask questions: i) Which is the k:th most common wordii) Which are the k:th to the k+n:th most common wordsUse [https://introcs.cs.princeton.edu/java/data/leipzig/leipzig1m.txt](https://introcs.cs.princeton.edu/java/data/leipzig/leipzig1m.txt)  as input. The questions should be answered in constant time. You need to be able to explain the choices of data structures and algorithms, and their complexities. The time to read the input and build the data structures must not be longer than 3 min.
